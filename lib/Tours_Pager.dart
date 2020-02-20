@@ -151,8 +151,8 @@ class TourListState extends State<Tours_List> {
   }
 
   Widget build(
-    BuildContext context,)
-     {
+    BuildContext context,
+  ) {
     return MaterialApp(
       home: Scaffold(
         body: Stack(children: [
